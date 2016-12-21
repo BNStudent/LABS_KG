@@ -1,6 +1,6 @@
 <HTML>
 <BODY>
-<canvas id='lab03' width='150' height='150'>
+<canvas id='lab3' width='150' height='150'>
 <script>
 var canvas = document.getElementById('lab3');	
 var ctx = canvas.getContext('2d');
