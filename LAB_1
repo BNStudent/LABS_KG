@@ -1,8 +1,8 @@
 <HTML>
 <BODY>
-<canvas id='lab01' width='150' height='150'>
+<canvas id='lab1' width='150' height='150'>
 <script>
-var canvas = document.getElementById('lab01');	
+var canvas = document.getElementById('lab1');	
 var ctx = canvas.getContext('2d');
 function sign(x) 
 {
